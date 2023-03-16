@@ -1,0 +1,6 @@
+print("il faut faire des testes")
+print("il faut tester")
+print("il fait beau")
+print("il fait beau")
+print("il fait beau")
+print("il fait beau")
